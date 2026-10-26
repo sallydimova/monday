@@ -1,0 +1,23 @@
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: purple;
+}
+body {
+    background-color:rgb(250, 232, 199);
+    border:2px solid purple;
+    border-radius:25px;
+    padding-left: 20px;
+}
+
+.main-content{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:blue;
+    font-size: large;
+}
+
+ul{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size:larger;
+color:blue;
+
+}
